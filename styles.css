@@ -14,9 +14,9 @@ body {
   font-family: "Rubik", sans-serif;
 }
 .container {
-  height: 90vh;
-  width: 90vw;
-  margin: 2rem auto;
+  height: 100vh;
+  width: 100vw;
+ 
   /* border: 1px solid black; */
   border-radius: 10px;
   background: var(--primary-theme-dark-background);
